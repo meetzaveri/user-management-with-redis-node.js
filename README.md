@@ -49,11 +49,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -65,7 +60,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Meet Zaveri** - *Initial work* - 
+* **Meet Zaveri**  
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
