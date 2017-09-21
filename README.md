@@ -33,10 +33,14 @@ Say what the step will be
 
 Install redis from official site - http://redis.io/
 
-And repeat
 
 ```
-until finished
+npm install
+```
+
+
+```
+npm start
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
