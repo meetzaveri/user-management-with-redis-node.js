@@ -4,7 +4,7 @@ A User management application bulit with redis and node.js
 
 ## Getting Started
 
-You should know littl basics of redis , good knowledge of node and basic understanding of html handlebars
+You should know little basics of redis , good knowledge of node and basic understanding of html handlebars
 
 ### Prerequisites
 
